@@ -27,7 +27,6 @@
   </a>
 </p>
   <!-- Socials -->
-##
 <p align="right">
   <span>
     <a target="_blank"><img src="https://komarev.com/ghpvc/?username=raynarg&style=for-the-badge" alt="Profile views" height="25" /></a>
